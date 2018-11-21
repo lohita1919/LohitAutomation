@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SmokeSuite" duration-ms="12109" started-at="2018-11-21T06:58:21Z" finished-at="2018-11-21T06:58:34Z">
+    <groups>
+    </groups>
+    <test name="SmokeTest" duration-ms="12109" started-at="2018-11-21T06:58:21Z" finished-at="2018-11-21T06:58:34Z">
+      <class name="com.project.Automation.TC_001">
+        <test-method status="PASS" signature="Amazonsearch()[pri:0, instance:com.project.Automation.TC_001@7ca48474]" name="Amazonsearch" duration-ms="12088" started-at="2018-11-21T12:28:22Z" finished-at="2018-11-21T12:28:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Amazonsearch -->
+      </class> <!-- com.project.Automation.TC_001 -->
+    </test> <!-- SmokeTest -->
+  </suite> <!-- SmokeSuite -->
+</testng-results>
